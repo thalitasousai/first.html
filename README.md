@@ -19,8 +19,7 @@
     <form action="pagina/login.html" method="GET">
 
         <label>
-            Nome:
-            <br>
+            Nome:<br>
             <input type="text" name="nome" id="name" />
         </label><br>
 
